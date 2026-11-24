@@ -2,6 +2,8 @@
 
 A playful, responsive personal launchpad for learning, games, and everyday tools.
 
+![Ruffryan13 pixel-art computer and block world](ruffryan13-world.png)
+
 ## Run locally
 
 Open `index.html` in a browser, or serve this folder with Python:
